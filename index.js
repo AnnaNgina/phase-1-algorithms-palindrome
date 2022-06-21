@@ -16,10 +16,16 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+  const reverseWord= reverse(word)
+  if(word ===reverseWord){
+    return true;
+  } else
+  return false;
 */
 
 /*
   Add written explanation of your solution here
+  After reverse it should return true or false
 */
 
 // You can run `node index.js` to view these console logs
